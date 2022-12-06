@@ -49,3 +49,7 @@ function day01(path)
 end
 
 end # module Day01 
+
+
+println(bar)
+
