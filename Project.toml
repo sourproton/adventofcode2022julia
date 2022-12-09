@@ -2,3 +2,6 @@ name = "AdventOfCode2022"
 uuid = "adfab174-d545-4140-b484-6c627b018cd7"
 authors = ["magarciaro "]
 version = "0.1.0"
+
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"

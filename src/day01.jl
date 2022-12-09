@@ -44,12 +44,8 @@ function part2(path)
     sum(elf_most)
 end
 
-function day01(path)
+function day01(path=joinpath(@__DIR__, "..", "data", "input01.txt"))
     part1(path), part2(path)
 end
 
 end # module Day01 
-
-
-println(bar)
-
