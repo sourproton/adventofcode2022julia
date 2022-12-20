@@ -22,5 +22,5 @@ end
 end
 
 @testset "Day 05" begin
-    @test day05(joinpath(@__DIR__, "data", "sample05.txt")) == (0, 0)
+    @test day05(joinpath(@__DIR__, "data", "sample05.txt")) == ("CMZ", "MCD")
 end
